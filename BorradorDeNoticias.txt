@@ -1,2 +1,10 @@
 Noticias olavarrienses
+<<<<<<< HEAD
 Atraco en Chivilcoy 
+=======
+Atraco en Chivilcoy 
+
+Nueva Noticias 20/10
+	Femicidio en olavarria
+https://www.elpopular.com.ar/nota/13753/2022/10/femicidio-en-barrio-sarmiento--la-fiscalia-investiga-pero-la-accion-penal-se-considera-extinta
+>>>>>>> 23138249586b4b71ef83b55552e866409633694f
