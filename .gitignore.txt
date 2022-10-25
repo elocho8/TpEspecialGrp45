@@ -1,2 +1,0 @@
-Carpeta
-ha.txt
