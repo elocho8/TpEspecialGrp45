@@ -1,8 +1,15 @@
 h1 {
-padding-left: ; 12% ;
-font-style: aspect-ratio: ;
-
+padding-left:  12% ;
+font-style: italic ;
 }
 H2 {
- font: height: 21px;   
+ font: 200px ;   
+}
+head{
+    appearance :inherit
+    border 200px;
+    border-color: green; ;
+}    
+title {
+font-size: larger;
 }
