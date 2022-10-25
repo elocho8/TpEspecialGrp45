@@ -1,13 +1,42 @@
 Datos:
 
-Noticias olavarrienses 
-nuevas
-
-
 Nueva noticia(Agregada desde RamaPrueba)
 
-Robo a banco
-...
+¿Puede reducirse el fútbol a números? Cada vez hay más gente intentándolo
+Los datos han supuesto una revolución en muchos deportes, desde el béisbol al baloncesto. 
+Es ya una rutina registrar los eventos del juego y tomar esa información para decidir tácticas, pulir jugadores o hacer fichajes.
+Esa transformación ha llegado al fútbol más despacio, por sus características o por su cultura menos cuantitativa, pero ahora mismo
+ es una realidad: los datos del fútbol están en ebullición.
+El primer paso lo dan empresas como Opta o Statsbomb, que están midiendo miles de acciones de cada partido: pases, carreras, remates. 
+Este lunes, por ejemplo, el checo Patrik Schick marcó un gol desde 45 metros —este gol—, y a los cinco minutos sabíamos que desde 2014 
+se han hecho 1.554 disparos similares en grandes ligas y que se han marcado 30. Alrededor de estos datos ha surgido una comunidad. 
+Empresas como las españolas Driblab y Olocip, que producen estadísticas avanzadas, hacen predicciones y ofrecen consejos a clubes y agentes. 
+También hay periodistas haciendo analítica, especialistas, aficionados y grupos de investigación.
+
+Son todos pioneros, que es para mí lo más interesante: están aprendiendo a capturar con números un juego sutil. ¿Qué hace bueno a Cristiano 
+Ronaldo o Kevin de Bruyne? Es tentador pensar que son cosas intangibles, pero eso es perezoso. Codificando en detalle sus acciones sobre el campo, 
+sus pases, sus movimiento, sus posiciones, acabaremos por averiguar lo que hacen. Siempre habrá destellos que se perderán, pero estos analistas quieren 
+reducirlos al mínimo.
+
+Lo que estamos viendo es el Cámbrico de las estadísticas en fútbol, la era para probar ideas. Estas son algunas de las métricas más populares.
+
+El valor de tus remates: goles esperados. Fue la primera métrica de éxito, los xG, que consiste en asignar a cada disparo una probabilidad de acabar en gol, 
+para capturar así su valor, según la distancia, el ángulo o el número de defensas entre el balón y la portería. En este ejemplo, con datos de Driblab, podéis 
+ver los xG de España contra Suecia, en su partido del lunes pasado.
 
 Datos cargados desde una rama local(Luca)
+
+La confusa serie de datos sobre fallecidos y contagiados por la covid-19 se ha convertido en una caótica maraña de cifras que no cuadran. La culpa inicial del 
+fiasco corresponde a las autoridades, pero alguna responsabilidad tienen los medios de comunicación, que no satisfacen el derecho de sus lectores a estar bien informados. 
+Si al comienzo pudo haber razones objetivas para tal enredo, no las hay cuatro meses después. En el periódico cunde la frustración, mientras los lectores,
+ víctimas del desbarajuste, exigen con razón mayor diligencia.
+
+El descontrol es patente: cambios de criterios en el recuento de afectados, “apagones” de semanas en las cifras de fallecidos, suma repentina de 600 fallecidos más en Cataluña,
+ resta de 1.918 en la contabilidad estatal, metodologías diferentes en las autonomías, rupturas de series estadísticas o mezcolanza entre casos “nuevos”, “diarios” o “confirmados”.
+
+EL PAÍS ha denunciado estas anomalías en artículos como Los datos están mal (27 de marzo), Una pandemia en la que todas las cifras son una incógnita (3 de abril), 
+El desbarajuste de las cifras del coronavirus (26 de mayo), Asteriscos, incoherencias y opacidad (27 de mayo) o Los problemas de usar daros del siglo pasado para una 
+pandemia del siglo XXI (21 de junio). A su vez, las tablas que a diario difunde EL PAÍS son acompañadas a pie de gráfico con asteriscos y explicaciones complejas como estas: 
+“A partir del 4 de julio, no se informa de los datos en fin de semana…”; “Las cifras de los fallecidos varían algunos días por diferencias de actualización…”; “A partir del 18 de abril, 
+el ministerio publica solo los positivos por PCR y no incluye…”
 
